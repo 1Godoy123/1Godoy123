@@ -1,7 +1,22 @@
 <h1 align="center">Hi, I'm Jherson</h1>
 <p align="center">
-  <i>Apasionado por el desarrollo backend y los sistemas basados en Unix.</i>
+  IT Support & Linux | Chess & Retro Gaming Enthusiast</i>
 </p>
+
+<h2 align="center">About Me</h2>
+<p align="center">
+  Hello I am a tech enthusiast with a versatile profile. 
+  I balance my time between <b>web development</b> (HTML, CSS, JS, Java, and Python/Django) 
+  and systems work, with experience in <b>Linux</b> and <b>computer maintenance</b>. 
+  I am currently expanding my horizons by learning automation with <b>n8n</b>.
+</p>
+
+<p align="center">
+  When I'm not coding or fixing hardware, you can find me analyzing a <b>chess</b> match, 
+  playing <b>arcade</b> games, or enjoying <b>football</b>.
+</p>
+
+
 
 ###
 
